@@ -11,6 +11,7 @@ baseurl: '/저장소이름/'
 google_analytics: ''
 disqus: '' #댓글 api 이용시 disqus-id 입력
 mailchimp-list: ''
+destination: post
 
 # Authors
 authors:
