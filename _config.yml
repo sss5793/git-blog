@@ -16,10 +16,9 @@ mailchimp-list: ''
 # Authors
 authors:
   sal:
-    name: 사용자 이름
-    display_name: 표시될 이름
+    name: 이슬기
+    display_name: 백설 집사
     gravatar: 
-    email: email@gmail.com
-    web: https://username.github.io
-    twitter: https://twitter.com/username
+    email: tmfrl002@naver.com
+    web: https://sss5793.github.io
     description: "사용자 설명"
