@@ -1,4 +1,4 @@
-theme: just-the-docs
+theme: pmarsceill/just-the-docs
 
 
 remote_theme: pmarsceill/just-the-docs
@@ -8,5 +8,5 @@ remote_theme: pmarsceill/just-the-docs
 title                    : "백설 집사의 개발 블로그"
 title_separator          : "-"
 name                     : "백설집사"
-descriptiobn: "집사와 개발자를 맡고 있습니다."
-url: "https://sss5793.github.io"
+descriptiobn             : "집사와 개발자를 맡고 있습니다."
+url                      : "https://sss5793.github.io"
