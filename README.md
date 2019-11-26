@@ -6,6 +6,8 @@
 <br>
 <br>  
 
+-> This is center aligned <-
+
 ```html
 <center>현재 사용중인 기술, 공부하고있는 기술 등을 작성할 예정입니다.  ^__________^</center>
 ```
