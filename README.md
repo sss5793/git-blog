@@ -1,3 +1,8 @@
+---
+title: HOME
+author_profile: true
+---
+
 ### 취미로 작성중인 기술 블로그입니다.
 ***  
 <br>
