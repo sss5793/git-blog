@@ -16,9 +16,3 @@ title_separator          : "-"
 name                     : "백설집사"
 descriptiobn             : "집사와 개발자를 맡고 있습니다."
 url                      : "https://sss5793.github.io"
-
-
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
