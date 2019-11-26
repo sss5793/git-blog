@@ -1,8 +1,13 @@
 remote_theme: pmarsceill/just-the-docs
+
+# Enable or disable the site search
 search_enabled: true
 
-
+# Set the search token separator for hyphenated-word search:
 search_tokenizer_separator: /[\s/]+/
+
+# Enable or disable heading anchors
+heading_anchors: true
 
 
 footer_content: 'Copyright &copy; Lee seulgi.'
@@ -14,3 +19,12 @@ title_separator          : "-"
 name                     : "백설집사"
 descriptiobn             : "집사와 개발자를 맡고 있습니다."
 url                      : "https://sss5793.github.io"
+
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: true
