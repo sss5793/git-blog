@@ -1,5 +1,5 @@
 ---
-title:  "마크다운 사용법
+title:  "마크다운 사용법"
 author_profile: true
 ---
 
