@@ -2,6 +2,12 @@ remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 
 
+search_tokenizer_separator: /[\s/]+/
+
+
+footer_content: "Copyright &copy; Lee seulgi. Distributed by an <a href=\"https://sss5793.github.io/"></a>"
+
+
 # Site Settings
 title                    : "백설 집사의 개발 블로그"
 title_separator          : "-"
