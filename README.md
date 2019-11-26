@@ -6,12 +6,10 @@
 <br>
 <br>  
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi error quod libero corporis, iste sit nulla similique enim dignissimos asperiores, illo numquam architecto maxime ab tenetur repellendus, dicta sed officia.
-{: .text-center }
+||
+|:---:|
+| 현재 사용중인 기술, 공부하고있는 기술 등을 작성할 예정입니다.  ^__________^ |
 
-```html
-<center>현재 사용중인 기술, 공부하고있는 기술 등을 작성할 예정입니다.  ^__________^</center>
-```
 
 <br/>
 <br/>
