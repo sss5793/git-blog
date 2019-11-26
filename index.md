@@ -1,6 +1,9 @@
 ---
+layout: default
 title: HOME
+nav_order: 1
 author_profile: true
+permalink: /
 ---
 
 ### 취미로 작성중인 기술 블로그입니다.
