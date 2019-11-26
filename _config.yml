@@ -5,7 +5,7 @@ search_enabled: true
 search_tokenizer_separator: /[\s/]+/
 
 
-footer_content: 'Copyright &copy; Lee seulgi. Distributed by an <a href=\"https://sss5793.github.io/"></a>'
+footer_content: 'Copyright &copy; Lee seulgi.'
 
 
 # Site Settings
