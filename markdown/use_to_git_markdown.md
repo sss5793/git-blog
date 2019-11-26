@@ -1,5 +1,6 @@
 ---
 title:  "마크다운 사용법"
+nav_order: 1
 author_profile: true
 ---
 
