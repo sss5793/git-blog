@@ -1,6 +1,8 @@
 ---
+layout: default
 title: 리액트란?
 author_profile: true
+nav_order: 2
 ---
 
 ### 리액트란?
