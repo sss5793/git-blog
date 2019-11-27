@@ -60,9 +60,10 @@ This is an H2
 >>> `인용 문구`
 ```
 > 인용
->>* 인용 2
+>> * 인용 2
 >>> `인용 문구`
 
+<br/>
 
-참고 - https://gist.github.com/ihoneymon/652be052a0727ad59601
+참고 - <https://gist.github.com/ihoneymon/652be052a0727ad59601>
 
