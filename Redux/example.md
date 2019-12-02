@@ -8,6 +8,7 @@ nav_order: 2
 ## Redux?
 리덕스란 자바스크립트를 위한 상태 관리 라이브러리 입니다.
 <br/>
+<br/>
 
 ## react-redux
 <br/>
