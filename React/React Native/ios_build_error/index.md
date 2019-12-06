@@ -10,7 +10,7 @@ nav_order: 3
 <br/>
 
 아래와 같은 에러현상이 나타났을 때 
-<img src="React/React Native/ios_build_error/ios_build_error_1.png" width="50%"></img>
+<img src="https://sss5793.github.io/React/React Native/ios_build_error/ios_build_error_1.png" width="50%"></img>
 
 아래의 사진과 같이 오류나는 파일명을 찾아 제거해주면 된다.
 <img src="React/React Native/ios_build_error/ios_build_error_2.jpeg" width="50%"></img>
