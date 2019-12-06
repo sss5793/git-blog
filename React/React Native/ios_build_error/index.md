@@ -21,4 +21,5 @@ nav_order: 3
 <br/>
 <img src="https://sss5793.github.io/React/React Native/ios_build_error/ios_build_error_2.jpeg" width="80%"></img>
 
+<br/>
 참고 - <https://j-a-l.tistory.com/118>
