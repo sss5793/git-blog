@@ -6,18 +6,15 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: default
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
-layout: default
-comments: true
-title: 리액트란?
-author_profile: true
-nav_order: 2
-has_children: true
+      nav_order: 2
+      has_children: true
+      title: 리액트란?
 ---
 
 ### 리액트란?
