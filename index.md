@@ -7,6 +7,19 @@ comments: true
 permalink: /
 ---
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      
 ### 취미로 작성중인 기술 블로그입니다.
 ***  
 <br>
