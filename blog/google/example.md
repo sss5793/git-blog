@@ -6,12 +6,4 @@ nav_order: 3
 comments : true
 ---
 
-```html
-{% if page.comments %}
-<div id="post-disqus" class="container">
-{% include disqus.html %}
-</div>
-{% endif %}
-```
-
 #### 댓글
