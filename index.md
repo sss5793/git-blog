@@ -3,6 +3,7 @@ layout: default
 title: HOME
 nav_order: 1
 author_profile: true
+comments: true
 permalink: /
 ---
 
