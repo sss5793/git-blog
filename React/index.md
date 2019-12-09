@@ -27,3 +27,7 @@ React는 처음부터 점진적으로 적용할 수 있도록 설계되었으며
 <br/>
 
 참고 - <https://ko.reactjs.org/>
+
+
+{% if page.comments %} 
+{% endif %}
