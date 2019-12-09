@@ -14,9 +14,3 @@ nav_order: 3
 ```
 
 #### 댓글
-
-{% if page.comments %}
-<div id="post-disqus" class="container">
-{% include disqus.html %}
-</div>
-{% endif %}
