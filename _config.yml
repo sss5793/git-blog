@@ -22,5 +22,7 @@ comments:
     shortname: "sss5793-github-io"
     
 disqus_shortname: "sss5793-github-io"
+# Disqus
+discus-identifier: sss5793-github-io # add your discus identifier
 
 ga_tracking: "UA-154244632-1"
