@@ -29,13 +29,4 @@ React는 처음부터 점진적으로 적용할 수 있도록 설계되었으며
 리액트는 프레임워크가 아닌 라이브러리이기 때문에 다른 라이브러리나 프레임워크를 함께 사용할 수 있습니다.
 <br/>
 
-참고 - <https://ko.reactjs.org/>
-
-html```
-<html>
-  <script id="dsq-count-scr" src="//sss5793-github-io.disqus.com/count.js" async></script>
-  <body>
-    
-  </body>
-</html>
-```
+참고 - <https://ko.reactjs.org/
