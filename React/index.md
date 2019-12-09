@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 title: 리액트란?
 author_profile: true
 nav_order: 2
