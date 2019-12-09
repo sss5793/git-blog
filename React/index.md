@@ -1,21 +1,14 @@
 ---
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-    layout: default
-    author_profile: true
-    read_time: true
-    comments: true
-    share: true
-    related: true
-    nav_order: 2
-    has_children: true
-    title: 리액트란?
----
+layout: default
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+nav_order: 2
+has_children: true
+title: 리액트란?
+---s
 
 ### 리액트란?
 ***  
