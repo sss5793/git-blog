@@ -6,3 +6,7 @@ nav_order: 3
 ---
 
 ### 구글 Analytics 등록하기
+
+
+<br/>
+참고 - <https://devinlife.com/howto%20github%20pages/google-search-console-and-analytics/>
