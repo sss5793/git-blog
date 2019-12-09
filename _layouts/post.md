@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 'Post'
 tags: [github]
 comments : true
