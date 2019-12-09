@@ -1,4 +1,17 @@
 ---
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 layout: default
 comments: true
 title: 리액트란?
