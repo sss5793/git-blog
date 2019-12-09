@@ -17,11 +17,15 @@ name                     : "백설집사"
 descriptiobn             : "집사와 개발자를 맡고 있습니다."
 url                      : "https://sss5793.github.io"
 
-comments:
-    provider: disqus
-    shortname: "sss5793-github-io"
+# Disqus
+disqus: True
+disqus_shortname: sss5793-github-io
+
+# comments:
+#     provider: disqus
+#     shortname: "sss5793-github-io"
     
-disqus_shortname: "sss5793-github-io"
+# disqus_shortname: "sss5793-github-io"
 # Disqus
 discus-identifier: sss5793-github-io # add your discus identifier
 
