@@ -13,3 +13,10 @@ comments : true
 </div>
 {% endif %}
 ```
+
+
+{% if page.comments %}
+<div id="post-disqus" class="container">
+{% include disqus.html %}
+</div>
+{% endif %}
