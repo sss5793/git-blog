@@ -20,6 +20,7 @@ url                      : "https://sss5793.github.io"
 comments:
     provider: disqus
     shortname: "sss5793-github-io"
-
+    
+disqus_shortname: "sss5793-github-io"
 
 ga_tracking: "UA-154244632-1"
