@@ -5,6 +5,8 @@ tags: [github]
 comments : true
 ---
 
-
-##제목을 적어봐요
-내용을 적어봐요
+{% if page.comments %}
+<div id="post-disqus" class="container">
+{% include disqus.html %}
+</div>
+{% endif %}
