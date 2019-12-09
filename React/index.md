@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 author_profile: true
 read_time: true
 comments: true
