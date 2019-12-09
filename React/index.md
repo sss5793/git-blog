@@ -28,8 +28,8 @@ React는 처음부터 점진적으로 적용할 수 있도록 설계되었으며
 
 참고 - <https://ko.reactjs.org/>
 
-
 {% if page.comments %}
+
 <div id="disqus_thread"></div>
 <script>
 
@@ -38,8 +38,8 @@ React는 처음부터 점진적으로 적용할 수 있도록 설계되었으며
 *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
 /*
 var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.url = 'https://sss5793.github.io/';  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = 'sss5793-github-io'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 };
 */
 (function() { // DON'T EDIT BELOW THIS LINE
@@ -49,5 +49,6 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>                 
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> 
+
 {% endif %}
