@@ -16,3 +16,13 @@ title_separator          : "-"
 name                     : "백설집사"
 descriptiobn             : "집사와 개발자를 맡고 있습니다."
 url                      : "https://sss5793.github.io"
+
+# breadcrumbs            : false # true, false (default)	# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200	
+comments:	
+  provider               : "disqus" # 블로그 댓글 기능 false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  disqus:	 
+    shortname            : "sss5793-github-io" # 블로그 댓글 기능 https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org	    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
