@@ -11,6 +11,8 @@ gem install jekyll
 
 ERROR: Failed to build gem native extension.
 
+에러 참고 - <https://stackoverflow.com/questions/22544754/failed-to-build-gem-native-extension-installing-compass>
+
 터미널에서 open ~/.bash_profile
 
 파일을 열고
