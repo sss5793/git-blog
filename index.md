@@ -20,7 +20,9 @@ permalink: /
 <br/>
 <br/>
 <br/>
+
 ***
+
 velog도 같이 운영중입니다. :D <https://velog.io/@sss5793> 
 
 <br/>
