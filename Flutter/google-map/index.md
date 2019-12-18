@@ -67,7 +67,7 @@ import GoogleMaps
 
 미리보기에 대한 옵션을 추가하고싶다면 앱의 Info.plist파일에 키를 io.flutter.embedded_views_previes, 값을 YES로 추가한다.
 
-3. 예제
+#### 3. 예제
 
 아래와 같이 추가하여 사용한다.
 
