@@ -6,7 +6,7 @@ parent: Flutter
 #### 1. 패키지 추가
 프로젝트 내 pubspec.yaml 파일에 아래와 같이 추가한다.
 
-![package](/package.png)
+![package](package.png)
 
 #### 2. 시작하기
 아래의 url로 접속하여 키를 발급받는다.
