@@ -4,17 +4,17 @@ parent: Flutter
 nav_order : 3
 ---
 
-#### 1. 패키지 추가
+### 1. 패키지 추가
 프로젝트 내 pubspec.yaml 파일에 아래와 같이 추가한다.
 
 ![package](package.png)
 
-#### 2. 시작하기
+### 2. 시작하기
 아래의 url로 접속하여 키를 발급받는다.
 
 <https://cloud.google.com/maps-platform/>
 
-#### 2-1 . Android
+### 2-1 . Android
 
 android/app/src/main/AndroidManifest.xml 파일에 아래와 같이 추가한다.
 YOUR KEY HERE 부분에 발급받은 키를 넣어준다.
@@ -26,7 +26,7 @@ YOUR KEY HERE 부분에 발급받은 키를 넣어준다.
                android:value="YOUR KEY HERE"/>
 ```
 
-#### 2-2 . IOS
+### 2-2 . IOS
 
 ios/Runner/AppDelegate.m 에 아래와 같이 코드를 추가해주거나
 
@@ -68,7 +68,7 @@ import GoogleMaps
 
 미리보기에 대한 옵션을 추가하고싶다면 앱의 Info.plist파일에 키를 io.flutter.embedded_views_previes, 값을 YES로 추가한다.
 
-#### 3. 예제
+### 3. 예제
 
 아래와 같이 추가하여 사용한다.
 
