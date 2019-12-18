@@ -1,5 +1,7 @@
 ---
 title : Go
+has_children : true
+nav_order : 2
 ---
 
 ### Go?
