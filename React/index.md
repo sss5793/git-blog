@@ -10,10 +10,6 @@ has_children: true
 title: 리액트란?
 ---
 
-### 리액트란?
-***  
-<br/>
-
 ### 페이스북에서 만든 사용자 인터페이스를 만들기 위한 Javascript Library 입니다.
 <br/>
 
