@@ -1,6 +1,7 @@
 ---
 title : google_maps_flutter 연결하기
 parent: Flutter
+nav_order : 3
 ---
 
 #### 1. 패키지 추가
