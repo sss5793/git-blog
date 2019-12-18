@@ -11,13 +11,16 @@ css파일을 적용하면 모든 화면에서 적용이 되어 class 나 id 명�
 <br/>
 ### styled-components 사용해보기
 <br/>
+
 ```
 yarn add styled-components
 ```
+
 로 React 프로젝트에 styled-components를 설치한다.<br/>
 <br/>
 설치한 라이브러리를 import 하여 html 태그에 적용하거나 임의의 태그에 적용시킬 수 있다.<br/>
 <br/>
+
 ```
 import React from 'react';
 
@@ -46,6 +49,7 @@ const TitleRed = styled(Title)`
     </TitleRed>
 </div>
 ```
+
 <br/>
 위와 같이 사용한다.<br/>
 <br/>
