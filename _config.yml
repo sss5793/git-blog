@@ -18,14 +18,14 @@ descriptiobn             : "집사와 개발자를 맡고 있습니다."
 url                      : "https://sss5793.github.io/git-blog"
 
 # Disqus
-disqus: sss5793.github.io
+disqus: git-blog
 disqus-shortname: sss5793-github-io
 
 # comments:
 #     provider: disqus
-#     shortname: "sss5793-github-io"
+#     shortname: "git-blog"
     
-# disqus_shortname: "sss5793-github-io"
+# disqus_shortname: "git-blog"
 # Disqus
 discus-identifier: sss5793-github-io # add your discus identifier
 
